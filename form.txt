@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>forms</title>
+</head>
+<body>
+<form action="server.php">
+<input type="text"><br>
+<input type="password"><br>
+<input type="submit">
+</body>
+</html>

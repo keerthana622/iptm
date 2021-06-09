@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello all jk
+=======
+hello all
+hey second update
+>>>>>>> 90e615c3f97e5beb02ac724b64f0424fced8272f
